@@ -1,0 +1,26 @@
+{
+  "name": "minicurso-2018",
+  "version": "1.0.0",
+  "description": "api em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schattner/minicurso.git"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "Gustavo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schattner/minicurso/issues"
+  },
+  "homepage": "https://github.com/schattner/minicurso#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
